@@ -1,4 +1,4 @@
-﻿# Genshin Dialogue Helper
+﻿# AutoTalk for Genshin
 
 A small Windows utility that automatically advances Genshin Impact dialogues. It watches the game window with the built-in Windows OCR and presses the interaction key (or clicks, for story inserts) when it recognizes that a dialogue is on screen.
 
