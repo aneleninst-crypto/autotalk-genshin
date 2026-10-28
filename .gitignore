@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+dist/
+publish/
+staging-ocr-fix/
+
+# Runtime logs
+*.log
+
+# IDE
+.vs/
+.vscode/
+*.user

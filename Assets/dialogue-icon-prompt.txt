@@ -1,0 +1,6 @@
+Generated with the built-in image_gen tool.
+
+Prompt:
+Create one polished Windows desktop application icon for a Genshin dialogue helper. Square icon: a luminous ivory speech bubble containing one bold golden four-point wishing star, on a midnight navy and teal rounded-square enamel tile, delicate gold rim, restrained magical fantasy aesthetic, soft dimensional highlights. Very simple strong silhouette readable at 32 pixels, large centered symbol, no text, no letters, no extra objects, no mockup, no surrounding scene. Transparent outside the rounded tile. Output a single square icon asset.
+
+transparent_background: true
